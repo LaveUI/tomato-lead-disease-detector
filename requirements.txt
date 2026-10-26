@@ -1,0 +1,9 @@
+torch>=2.5,<3
+torchvision>=0.20,<1
+scikit-learn>=1.5,<2
+numpy>=1.26,<3
+Pillow>=10.4,<13
+huggingface-hub>=0.27,<2
+gradio>=5.0,<7
+matplotlib>=3.9,<4
+tqdm>=4.66,<5
